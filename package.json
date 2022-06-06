@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase-admin": "^10.2.0"
+  },
+  "scripts": {
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby build"
+  }
+}
